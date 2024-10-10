@@ -1,0 +1,5 @@
+{
+  "/partner-details/[id]/service-details/[serviceId]/page": "app/partner-details/[id]/service-details/[serviceId]/page.js",
+  "/page": "app/page.js",
+  "/salon/[salonName]/page": "app/salon/[salonName]/page.js"
+}
